@@ -1,5 +1,4 @@
-Проект по автоматизации тестирования для Tourmachine
-Веб сайт Tourmachine
+# Проект по автоматизации тестирования для [Tourmachine](https://www.tourmachine.net/)
 
 :drop_of_blood: Содержание:
 Технологии и инструменты
