@@ -64,7 +64,7 @@ public class GeneratedTests extends TestBase {
         step("Открываем сайт Tourmachine", () -> {
             open("https://www.tourmachine.net");
         });
-        step("На главной странице содержится кнопка 'Витрина впечатлений'", () -> {
+        step("На главной странице находится кнопка 'Витрина впечатлений'", () -> {
             $(".jss52.jss105.custom-typography-p2medium").shouldHave(text("Витрина впечатлений"));
         });
     }
