@@ -8,6 +8,8 @@
 Allure отчет
 Отчет в Telegram
 Видео примеры прохождения тестов
+
+
 :bird: Технологии и инструменты
 IDEA Java Github JUnit 5 Gradle Selenide Selenoid Allure Jenkins
 
